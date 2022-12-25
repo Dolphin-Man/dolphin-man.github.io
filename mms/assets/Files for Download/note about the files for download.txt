@@ -1,0 +1,17 @@
+GitHub has a 25MB size restriction.
+
+The downloads have been moved to a cloud hosting service (MEGA).
+
+The references to these files have been rewritten to point to the MEGA download links.
+
+Here are the links: 
+
+Mod-pack v1.0:
+https://mega.nz/file/Tu43UKTS#2To-yMDHT_Daa-FphIPcjgo8yr3BP-F2qVC7JtSzeko
+
+Resource-pack v1.0:
+https://mega.nz/file/6qInzJjL#th3MxjvyTMQgi2bvIJGnyjMOTgCsr9mAazV18GEm_s0
+
+Shader-pack with config v1.0:
+https://mega.nz/file/7noGGCgD#HBxBX-YlscR2xB06AOSryBRbAPrwtG2SUZ0J798mM2I
+
