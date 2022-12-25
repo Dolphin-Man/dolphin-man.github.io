@@ -1,0 +1,1 @@
+window.location.href = "Dolphin-Man home page.html"
